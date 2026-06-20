@@ -3,4 +3,4 @@ This is a practice data analysis project that examines the trend of Manufacturin
 
 Since the notebook compares 2024-2026 cost trends, I have displayed two dataframes together to make it easier to visually compares changes without requiring additional comparsion logic. 
 
-Moreover, I included definitions for technical terms such as Logic cost, HBM, auxiliary tp make it easier for readers to understand the anaylsis rather than requiring extra research into the terminology 
+Moreover, I included definitions for technical terms such as Logic cost, HBM, auxiliary to make it easier for readers to understand the anaylsis rather than requiring extra research into the terminology 
